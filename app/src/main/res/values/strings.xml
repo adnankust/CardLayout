@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CardLayout</string>
+    <string name="compose_long_desc">Welcome to Android
+        Jetpoase is a UI framework
+        </string>
+    <string name="title_jetpack_compose_tutorial">Jetpack Compose Tutorial</string>
+    <string name="compose_short_desc">This tutorial tells you how to design a user inferface using jetpack compose</string>
+</resources>
